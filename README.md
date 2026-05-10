@@ -57,13 +57,13 @@ chmod +x saladbrains.sh
 **Option A — pipe from GitHub (recommended for end users)**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/<org>/saladbrains/main/saladbrains.sh | bash
+curl -fsSL https://raw.githubusercontent.com/saladworks/saladbrains/main/saladbrains.sh | bash
 ```
 
 **Option B — clone and run locally**
 
 ```bash
-git clone https://github.com/<org>/saladbrains.git
+git clone https://github.com/saladworks/saladbrains.git
 cd saladbrains
 bash saladbrains.sh
 ```
