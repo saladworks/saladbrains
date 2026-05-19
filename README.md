@@ -54,13 +54,20 @@ chmod +x saladbrains.sh
 
 ## Installation
 
-**Option A — pipe from GitHub (recommended for end users)**
+**Option A — npm (recommended for local use)**
+
+```bash
+npm install -g saladbrains
+saladbrains
+```
+
+**Option B — pipe from GitHub**
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/saladworks/saladbrains/main/saladbrains.sh | bash
 ```
 
-**Option B — clone and run locally**
+**Option C — clone and run locally**
 
 ```bash
 git clone https://github.com/saladworks/saladbrains.git

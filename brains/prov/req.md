@@ -4,6 +4,8 @@
 To generate a scaffloding shell scripts to generate a skeleton of the new project for the AI code agent assistant 
 project. 
 
+Publish the tools to npm package as well, so that user can install the package and use this tool locally. 
+
 ## The Skeleton
 
 The place of the target project skeleton base directory.

@@ -1,0 +1,20 @@
+{
+  "name": "saladbrains",
+  "version": "0.1.0",
+  "description": "Scaffold an AI code-agent project skeleton in one command",
+  "bin": {
+    "saladbrains": "./saladbrains.sh"
+  },
+  "files": [
+    "saladbrains.sh"
+  ],
+  "keywords": ["scaffold", "ai", "claude", "code-agent", "skeleton", "boilerplate"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saladworks/saladbrains.git"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}

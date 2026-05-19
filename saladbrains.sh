@@ -2,7 +2,7 @@
 # saladbrains.sh — scaffold a new AI code-agent project skeleton
 # Usage:
 #   PRJ_BASE=/path/to/project bash saladbrains.sh
-#   curl -fsSL https://raw.githubusercontent.com/.../saladbrains.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/saladworks/saladbrains/main/saladbrains.sh | bash
 set -euo pipefail
 
 PRJ_BASE="${PRJ_BASE:-$(pwd)}"
